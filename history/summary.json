@@ -1,26 +1,18 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
-    "status": "down",
+    "name": "Site IFRS",
+    "url": "https://ifrs.edu.br",
+    "slug": "site-ifrs",
+    "status": "up",
     "uptime": "100.00%",
-    "time": 0
+    "time": 1742
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
-    "status": "down",
-    "uptime": "100.00%",
-    "time": 0
-  },
-  {
-    "name": "Moodle IFRS Osório",
+    "name": "Moodle IFRS Osorio",
     "url": "https://moodle.osorio.ifrs.edu.br",
     "slug": "moodle-ifrs-osorio",
     "status": "down",
-    "uptime": "23.61%",
+    "uptime": "100.00%",
     "time": 0
   },
   {
@@ -29,6 +21,14 @@
     "slug": "sistrac",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1616
+    "time": 2110
+  },
+  {
+    "name": "MoExP",
+    "url": "https://moexp.osorio.ifrs.edu.br",
+    "slug": "mo-ex-p",
+    "status": "down",
+    "uptime": "28.88%",
+    "time": 0
   }
 ]
