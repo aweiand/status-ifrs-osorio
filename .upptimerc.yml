@@ -10,8 +10,8 @@ sites:
 #     url: https://moodle.osorio.ifrs.edu.br
   - name: Sistrac
     url: https://sistrac.osorio.ifrs.edu.br
-#   - name: MoExP
-#     url: https://moexp.osorio.ifrs.edu.br
+  - name: Eventos IFRS Osorio
+    url: https://eventos.osorio.ifrs.edu.br
 #  - name: Secret Site
 #    url: $SECRET_SITE
 
