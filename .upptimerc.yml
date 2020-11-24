@@ -6,12 +6,12 @@ repo: status-ifrs-osorio # Your Github repository name
 sites:
   - name: Site IFRS
     url: https://ifrs.edu.br
-  - name: Moodle IFRS Osorio
-    url: https://moodle.osorio.ifrs.edu.br
+#   - name: Moodle IFRS Osorio
+#     url: https://moodle.osorio.ifrs.edu.br
   - name: Sistrac
     url: https://sistrac.osorio.ifrs.edu.br
-  - name: MoExP
-    url: https://moexp.osorio.ifrs.edu.br
+#   - name: MoExP
+#     url: https://moexp.osorio.ifrs.edu.br
 #  - name: Secret Site
 #    url: $SECRET_SITE
 
