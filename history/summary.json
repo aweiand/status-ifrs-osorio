@@ -5,7 +5,7 @@
     "slug": "site-ifrs",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1742
+    "time": 1464
   },
   {
     "name": "Moodle IFRS Osorio",
@@ -21,14 +21,14 @@
     "slug": "sistrac",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2110
+    "time": 1934
   },
   {
     "name": "MoExP",
     "url": "https://moexp.osorio.ifrs.edu.br",
     "slug": "mo-ex-p",
     "status": "down",
-    "uptime": "17.57%",
+    "uptime": "100.00%",
     "time": 0
   }
 ]
