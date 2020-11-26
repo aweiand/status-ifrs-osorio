@@ -5,15 +5,15 @@
     "slug": "site-ifrs",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1564
+    "time": 1529
   },
   {
     "name": "Sistrac",
     "url": "https://sistrac.osorio.ifrs.edu.br",
     "slug": "sistrac",
     "status": "down",
-    "uptime": "99.98%",
-    "time": 1401
+    "uptime": "89.73%",
+    "time": 1245
   },
   {
     "name": "Eventos IFRS Osorio",
