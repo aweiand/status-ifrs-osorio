@@ -14,6 +14,9 @@ sites:
   - name: Eventos IFRS Osorio
     url: https://eventos.osorio.ifrs.edu.br
     
+  - name: AVA PoK
+    url: https://pok.osorio.ifrs.edu.br
+    
 #  - name: Secret Site
 #    url: $SECRET_SITE
 
