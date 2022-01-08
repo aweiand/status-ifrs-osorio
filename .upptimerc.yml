@@ -4,18 +4,18 @@ repo: status-ifrs-osorio # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Site IFRS
-    url: https://ifrs.edu.br
+#   - name: Site IFRS
+#     url: https://ifrs.edu.br
 #   - name: Moodle IFRS Osorio
 #     url: https://moodle.osorio.ifrs.edu.br
   - name: Sistrac
     url: https://sistrac.osorio.ifrs.edu.br
     
-  - name: Eventos IFRS Osorio
-    url: https://eventos.osorio.ifrs.edu.br
+#   - name: Eventos IFRS Osorio
+#     url: https://eventos.osorio.ifrs.edu.br
     
-  - name: AVA PoK
-    url: https://pok.osorio.ifrs.edu.br
+#   - name: AVA PoK
+#     url: https://pok.osorio.ifrs.edu.br
     
 #  - name: Secret Site
 #    url: $SECRET_SITE
