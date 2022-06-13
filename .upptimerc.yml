@@ -14,6 +14,7 @@ sites:
   - name: Juniper
     url: 200.132.13.254
     check: "tcp-ping"
+    port: 53
     
 #   - name: Eventos IFRS Osorio
 #     url: https://eventos.osorio.ifrs.edu.br
