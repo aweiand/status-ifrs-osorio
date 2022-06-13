@@ -8,6 +8,7 @@ sites:
 #     url: https://ifrs.edu.br
 #   - name: Moodle IFRS Osorio
 #     url: https://moodle.osorio.ifrs.edu.br
+
   - name: Sistrac
     url: https://sistrac.osorio.ifrs.edu.br
     
@@ -21,10 +22,10 @@ sites:
     url: 200.19.240.86
     port: 53   
     
-  - name: Google DNS 1
+  - name: Web.Osorio.IFRS
     check: "tcp-ping"
-    url: 8.8.4.4
-    port: 53
+    url: 200.132.13.80
+    port: 80
     
 #   - name: Eventos IFRS Osorio
 #     url: https://eventos.osorio.ifrs.edu.br
