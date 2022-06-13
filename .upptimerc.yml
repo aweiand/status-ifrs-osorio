@@ -16,6 +16,11 @@ sites:
     check: "tcp-ping"
     port: 53
     
+  - name: Google DNS 1
+    check: "tcp-ping"
+    url: 8.8.4.4
+    port: 53
+    
 #   - name: Eventos IFRS Osorio
 #     url: https://eventos.osorio.ifrs.edu.br
     
