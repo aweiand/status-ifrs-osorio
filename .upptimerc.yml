@@ -12,9 +12,14 @@ sites:
     url: https://sistrac.osorio.ifrs.edu.br
     
   - name: Juniper
-    check: "tcp-ping"  
+    check: "tcp-ping"
     url: 200.132.13.254
     port: 53
+   
+  - name: IF Osório Interno
+    check: "tcp-ping"
+    url: 200.19.240.86
+    port: 53   
     
   - name: Google DNS 1
     check: "tcp-ping"
