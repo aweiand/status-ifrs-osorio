@@ -11,6 +11,10 @@ sites:
   - name: Sistrac
     url: https://sistrac.osorio.ifrs.edu.br
     
+  - name: Juniper
+    url: 200.132.13.254
+    check: "tcp-ping"
+    
 #   - name: Eventos IFRS Osorio
 #     url: https://eventos.osorio.ifrs.edu.br
     
