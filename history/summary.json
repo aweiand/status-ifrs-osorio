@@ -4,8 +4,8 @@
     "url": "https://sistrac.osorio.ifrs.edu.br",
     "icon": "https://icons.duckduckgo.com/ip3/sistrac.osorio.ifrs.edu.br.ico",
     "slug": "sistrac",
-    "status": "up",
-    "uptime": "96.10%",
+    "status": "down",
+    "uptime": "96.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "92.94%",
     "uptimeMonth": "98.37%",
@@ -16,6 +16,7 @@
     "timeMonth": 871,
     "timeYear": 1028,
     "dailyMinutesDown": {
+      "2024-05-07": 0,
       "2024-05-05": 40,
       "2024-05-02": 672,
       "2024-04-02": 44,
