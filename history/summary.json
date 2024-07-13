@@ -6,15 +6,15 @@
     "slug": "sistrac",
     "status": "up",
     "uptime": "96.24%",
-    "uptimeDay": "97.91%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "97.07%",
-    "time": 1014,
-    "timeDay": 807,
-    "timeWeek": 844,
-    "timeMonth": 839,
-    "timeYear": 986,
+    "time": 1007,
+    "timeDay": 743,
+    "timeWeek": 833,
+    "timeMonth": 837,
+    "timeYear": 985,
     "dailyMinutesDown": {
       "2024-07-11": 30,
       "2024-06-03": 499,
@@ -46,8 +46,7 @@
       "2023-07-24": 43,
       "2023-07-17": 1060,
       "2023-07-16": 1440,
-      "2023-07-15": 1440,
-      "2023-07-14": 1440
+      "2023-07-15": 1440
     }
   }
 ]
