@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sistrac.osorio.ifrs.edu.br.ico",
     "slug": "sistrac",
     "status": "up",
-    "uptime": "62.11%",
+    "uptime": "62.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "92.55%",
-    "uptimeMonth": "72.71%",
-    "uptimeYear": "6.22%",
-    "time": 1321,
-    "timeDay": 1414,
-    "timeWeek": 1280,
-    "timeMonth": 1321,
-    "timeYear": 1321,
+    "uptimeMonth": "76.02%",
+    "uptimeYear": "6.50%",
+    "time": 1328,
+    "timeDay": 1504,
+    "timeWeek": 1300,
+    "timeMonth": 1328,
+    "timeYear": 1328,
     "dailyMinutesDown": {
       "2026-08-14": 1240,
       "2026-08-13": 1440,
@@ -356,7 +356,6 @@
       "2025-09-11": 1440,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
-      "2025-09-08": 1440,
       "2026-09-03": 751
     }
   }
